@@ -7,6 +7,7 @@ Une copine d'école de notre ainé s'est coincée le pied dans les rayons du vé
 Résultat : de multiples opérations, l'impossibilité de marcher tout l'été, une rentrée retardée, et c'est toujours pas fini au moment où j'écris.
 
 On trimballe régulièrement le grand sur nos porte-bagages, sur un siège comme ça ->
+![Femme sur son vélo de dos avec une fille assise sur un siège vélo accroché au porte-bagages](https://github.com/newick/gardin.me/assets/657454/aae0e2f2-8a4f-41ce-a57e-0752ee09bb46)
 
 C'est précisément un Qibbel Junior 6. Le siège se met sur le porte-bagages, et des cale-pieds sur le cadre.
 
@@ -29,6 +30,9 @@ Il va falloir bricoler !
 2 cerveaux valent mieux qu'un, j'en parle à Jean-Michel qui vient de lancer son activité de réparation de vélos ([clapcycle](http://clapcycle.fr)).
 
 Il vient donc un matin avec son ~~camion~~ vélo-atelier
+
+![Vue du cargo du vélo-atelier](https://github.com/newick/gardin.me/assets/657454/2470a7ff-136b-4cd3-a3d2-e02dd62d3b8f)
+
 
 On discute du projet autour d'un café. Ce qu'il en sort :
 
