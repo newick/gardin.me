@@ -1,6 +1,7 @@
-# # Création d'un pare-jupe pour garde-bout
-
-# ## Un peu de contexte
+---
+title: Création d'un pare-jupe pour garde-bout de vélo
+---
+## Un peu de contexte
 
 Une copine d'école de notre ainé s'est coincée le pied dans les rayons du vélo d'un de ses parents en rentrant de l'école sur le porte-bagage.  
 Résultat : de multiples opérations, l'impossibilité de marcher tout l'été, une rentrée retardée, et c'est toujours pas fini au moment où j'écris.
