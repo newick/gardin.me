@@ -2,6 +2,7 @@
 layout: default
 title: Articles
 permalink: /articles/
+order: 2
 ---
 <h1>
   Articles
